@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio Website",
+  "description": "A modern personal portfolio website for a Software Engineering student and mobile developer, featuring light/dark mode toggle, smooth animations, responsive design, and sections for bio, skills, projects, certifications, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
