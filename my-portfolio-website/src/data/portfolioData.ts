@@ -29,10 +29,10 @@ export const personalInfo = {
 };
 
 export const typingRoles = [
-  'Software Engineering Student',
+  'Software Engineer',
   'Mobile App Developer',
   'Aspiring AI & Cloud Professional',
-  'Full-Stack Enthusiast'
+  'Full-Stack Developer'
 ];
 
 export const navItems: NavItem[] = [
@@ -88,7 +88,7 @@ export const experienceData: ExperienceItem[] = [
     role: 'Mobile Application Developer Intern',
     company: 'Academic Bridge',
     location: 'Kigali, Rwanda',
-    period: 'Jun 2026 – Jul 2026',
+    period: 'Jun 2026 – Sep 2026',
     bullets: [
       'Worked as a mobile app developer building cross-platform mobile applications using Dart and Flutter.'
     ],
@@ -385,7 +385,7 @@ export const generateCvHtml = (): string => `<!DOCTYPE html><html lang="en"><hea
         <div class="entry-title">Mobile Application Developer Intern</div>
         <div class="entry-sub">Academic Bridge · Kigali, Rwanda</div>
       </div>
-      <div class="entry-date">Jun 2026 – Jul 2026</div>
+      <div class="entry-date">Jun 2026 – Sep 2026</div>
     </div>
     <ul>
       <li>Worked as a mobile app developer building cross-platform mobile applications using Dart and Flutter.</li>
